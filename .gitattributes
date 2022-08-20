@@ -1,2 +1,116 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio Natália Vilela Figueredo</title>
+
+    <style>
+
+div {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+        *{margin: 0;}
+        #conteiner {width: 50px;
+        text-align: center;}
+        body {
+            background-color: rgb(28, 28, 28)
+        }
+
+        h1 {
+            color: rgb(45, 0, 97);
+            background-color: rgb(246, 255, 0);
+           padding: 15px;
+
+    }
+
+
+
+        h1 {
+            text-align: center;
+        }
+
+        h2 {
+            color: rgb(246, 255, 0);
+            background-color: rgb(52, 1, 86);
+            font-size: 25px;
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        button {
+            color: rgb(45, 0, 97);
+            background-color: rgb(255, 234, 0);
+
+            font-size: 20px;
+            border-color: rgb(89, 0, 127);
+            text-align: center;
+
+        }
+        h4{color: aliceblue;
+        
+        text-align: left(50);
+    font-size: 30px;}
+
+        h3{color: rgb(255, 217, 0);
+        text-align: left(50);
+    font-size: 50px;}
+    </style>
+</head>
+
+<body>
+
+
+    <h1>Portfólio</h1>
+
+    <h2>Natália Vilela Figueredo</h2>
+    <br></br>
+
+<center>
+    <form>
+        <a href="file:///C:/Users/natal/Downloads/PORTIFOLIO/INICIO/inicio.index.html">
+           <input type="button" value="Inicio">
+        </a>
+    </form>
+    <form>
+        <a href="file:///C:/Users/natal/Downloads/PORTIFOLIO/SOBRE%20MIM/sobremim.index.html">
+           <input type="button" value="Sobre Mim">
+        </a>
+    </form>
+    <form>
+        <a href="file:///C:/Users/natal/Downloads/PORTIFOLIO/PROJETOS/PROJETOS.INDEX.html">
+           <input type="button" value="Projetos">
+        </a>
+    </form>
+
+
+
+
+
+<br></br>
+<br></br>
+<br></br>
+<h4>
+
+    <i>Eu Sou,</i> </h4>
+<h3><p>Natália Vilela figueredo</p></h3>
+<h4>
+<i>Dev. fullstack</i> 
+</h4>
+
+</body>
+
+</html>
